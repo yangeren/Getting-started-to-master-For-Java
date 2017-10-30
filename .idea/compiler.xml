@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Getting-started-to-master-For-Java" target="1.5" />
+      <module name="Getting-started-to-master-For-Java" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
