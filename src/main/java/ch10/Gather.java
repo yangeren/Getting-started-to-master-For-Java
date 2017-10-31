@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Gather {
     public static void main(String[] args) {
-        List list = new ArrayList<>();
+        List list = new ArrayList<String>();
         int i = (int) (Math.random() * (list.size() - 1));
         list.add("a");
         list.add("b");
